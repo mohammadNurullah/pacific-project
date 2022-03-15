@@ -1,0 +1,25 @@
+#bannar {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(/vendorse/imges/banner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.card-body .fa_1 {
+  color: rgba(155, 89, 182, 1);
+}
+
+.card-body .fa_2 {
+  color: rgba(241, 196, 15, 1);
+}
+
+.card-body .fa_3 {
+  color: rgba(192, 57, 43, 1);
+}
+
+/* -----footer link_menu----- */
+.link_menu a {
+  text-decoration: none;
+}
